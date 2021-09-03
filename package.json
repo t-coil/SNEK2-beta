@@ -2,7 +2,7 @@
   "name": "demo-snek-2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://t-coil.github.io/SNEK2",
+  "homepage": "https://t-coil.github.io/SNEK2-beta",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
